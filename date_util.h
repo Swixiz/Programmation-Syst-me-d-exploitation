@@ -1,0 +1,1 @@
+unsigned long getTimestamp(char * date);
